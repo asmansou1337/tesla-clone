@@ -1,10 +1,10 @@
 # Tesla Home Page Clone With Header
 
-** What I learned from this project: **
-👉 Functional components in React JS 🔥
-👉 Props and States in React JS 🚀
-👉 Styling using Styled Components ✨
-👉 Managing states using Redux ⚛️
+**What I learned from this project:**
+*👉 Functional components in React JS 🔥
+*👉 Props and States in React JS 🚀
+*👉 Styling using Styled Components ✨
+*👉 Managing states using Redux ⚛️
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
