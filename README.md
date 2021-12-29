@@ -1,6 +1,7 @@
 # Tesla Home Page Clone With Header
 
 **What I learned from this project:**
+
     - 👉 Functional components in React JS 🔥
     - 👉 Props and States in React JS 🚀
     - 👉 Styling using Styled Components ✨
